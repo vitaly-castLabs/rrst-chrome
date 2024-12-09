@@ -1,6 +1,6 @@
 'use strict'
 
-import {enforceH264} from '../../shared/utils.js'
+import {enforceH264} from '../shared/utils.js'
 
 const localVid = document.getElementById('local-video')
 const remoteVid = document.getElementById('remote-video')
